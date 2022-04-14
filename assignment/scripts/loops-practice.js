@@ -55,7 +55,7 @@ while(index < 5){
   index++;
 } 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
-/*console.log('count from 0 to 5');
+console.log('count from 0 to 5');
 index = 0;
 const max = 10;
 while(index < 6){
@@ -63,7 +63,7 @@ while(index < 6){
   index++;
 }
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
-console.log('count backwards from 10 to 5');
+/*console.log('count backwards from 10 to 5');
 index = 10
 while (index > 4){
   console.log('In while loop index is:',index);
